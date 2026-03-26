@@ -16,6 +16,10 @@ Deep learning model training
 Model evaluation
 Deployment using Streamlit
 
+## Project Structure
+
+<img width="720" height="416" alt="image" src="https://github.com/user-attachments/assets/7450b82b-6c35-4c12-a858-8856e0b25867" />
+
 ## 🎯 Problem Statement
 
 The goal of this project is to predict future stock prices using historical market data.
